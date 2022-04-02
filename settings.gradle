@@ -1,0 +1,3 @@
+rootProject.name = "handylogger_sample"
+include ':app'
+include ':handylogger'
